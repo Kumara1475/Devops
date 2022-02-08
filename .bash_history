@@ -35,3 +35,5 @@ c ..
 cd ..\
 cd ..
 pwd
+clear
+sudo su
